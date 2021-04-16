@@ -90,9 +90,9 @@ Dicordを開くと次のような画面が出ます。
 
 [Discord]はサーバーと呼ばれるグループに参加することで、そのグループに参加してるメンバとコミュニケーションを取ることが出来ます。
 
-下記リンクをクリックして、CoderDojo東住吉のサーバーへ参加して準備完了です。
+下のリンクをクリックして、CoderDojo東住吉のサーバーへ参加して準備完了です。
 
-<a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button">
+<a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button special">
 CoderDojo東住吉 Discordサーバー
 </a>
 
