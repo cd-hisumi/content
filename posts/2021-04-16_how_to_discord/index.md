@@ -1,13 +1,97 @@
 ---
 date: 2021-04-16
-title: Discordの使い方
+title: Discordの始め方
 tags: [online, discord]
 ---
 
-CoderDojo東住吉では、オンラインでイベントを行う時は[Discord](http://discord.com/)を使います。  
-またオンラインイベント中はDiscordを使って質問や発表も出来るので、このページで使い方を書きたいと思います。
+[Discord]: https://discord.com
 
-# さいしょ
+オンラインでイベントを行う時は[Discord]を使います。  またDiscordで質問や発表も出来ます。
 
-<iframe src="https://discord.com/widget?id=828093663749996614&theme=light" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+このページではDiscordの始め方を説明します。
+
+# 1. ソフトウェアのインストール
+
+![client](img/client.png)
+
+[Discord]のサイトへアクセスすると上記のようなボタンがあるので、お好きな方を選んで下さい。
+
+このページを見てるブラウザ(Chrome, Edge, SafariならOK)のままでも使えますが、インストールすると少しだけ使いやすくなります。利用頻度や必要に応じて選んで頂ければ良いと思います。
+
+ダウンロードを行った場合は、保存したファイルを実行してインストールを完了させて下さい。
+
+# 2. Discordアカウント作成
+
+## 2.1. その前に
+
+13歳未満の子どもは保護者の方がアカウントを作成する必要があります。また、13才以上の未成年でも保護者の同意が必要になります。
+
+アカウント作成にはメールアドレスか電話番号が必要になりますが、[Discord]からのメッセージがメールや電話番号へ通知されることはありません。
+
+あと登録のときに、時々次のような画面が出ます。その時は赤で印をした部分をクリックして、案内に従って下さい。
+
+![robo check](img/robot_check.png)
+
+## 2.2. アカウント作成
+
+Dicordを開くと次のような画面が出ます。
+
+![login](img/login.png)
+
+このページを見てるほとんどの人は[Discord]は始めてだと思うので、赤で印をした"登録"をクリックして下さい。
+
+すると次のような画面が出てくると思います。
+
+![register](img/register.png)
+
+ここに、下記の情報を記入して"はい"を押してください。
+
+- メールアドレス
+- ユーザー名
+    - 好きな名前を入れて下さい。後で変更も出来ます。
+- パスワード
+- 生年月日
+    - 13未満の子供の場合は、必ず保護者の生年月日を設定して下さい。
+
+記入して"はい”を押すと、次のような画面が出る時があります。
+
+![authentication](img/authentication.png)
+
+好きな方を選択して認証を完了させて下さい。
+
+認証が完了すると、Discordへログインが自動で行われます。
+
+# 3. 安全に使うための設定
+
+[Discord]を安全につかうための設定を行います。
+
+[Discord]にログインすると、画面の左下に次のようなアイコンが並んでる思います。
+
+![user panel](img/user_panel.png)
+
+ユーザーの設定を行うため、赤で印をした:gear:マークをクリックして下さい。
+
+![privacy tab](img/privacy_tab.png)
+
+ユーザー設定画面が表示されるので、左のリストから"プライバシー・安全"を選択して下さい。
+
+すると右側の表示が変わるので、次の画像と同じになるように設定して下さい。
+
+![privacy setting](img/privacy_setting.png)
+
+設定によっては次のようなポップアップが出るので"はい"を選択して下さい。間違えた場合は、一度戻して再度同じ設定を試せば出てきます。
+
+![privacy popup](img/privacy_popup.png)
+
+あとは、右上の"X"ボタンかESCキーを押して設定完了です。
+
+# 4. CoderDojo東住吉のサーバーへ参加
+
+[Discord]はサーバーと呼ばれるグループに参加することで、そのグループに参加してるメンバとコミュニケーションを取ることが出来ます。
+
+下記リンクをクリックして、CoderDojo東住吉のサーバーへ参加して準備完了です。
+
+<a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button">
+CoderDojo東住吉 Discordサーバー
+</a>
 
