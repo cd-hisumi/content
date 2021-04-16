@@ -6,7 +6,7 @@ tags: [online, discord]
 
 [Discord]: https://discord.com
 
-オンラインでイベントを行う時は[Discord]を使います。  またDiscordで質問や発表も出来ます。
+オンライン開催の時は[Discord]を使います。Discordを使うとオンラインで質問や発表が出来ます。
 
 このページではDiscordの始め方を説明します。
 
