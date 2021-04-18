@@ -76,7 +76,7 @@ Discordにログインした画面を開いて、画面左下から次の画像�
 
 ![privacy setting](img/privacy_setting.png)
 
-設定によっては下の画像様なポップアップが出る場合があるので、"はい"を選択して下さい。  
+下画像の様なポップアップが出た時は、"はい"を選択して下さい。  
 間違えた場合は、一度設定を戻してもう一度同じ設定を行って下さい。
 
 ![privacy popup](img/privacy_popup.png)
