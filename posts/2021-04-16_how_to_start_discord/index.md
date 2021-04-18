@@ -12,7 +12,7 @@ CoderDojoがオンライン開催の時は、Discordを使って質問や発表�
 
 Discordをお使いになるデバイスで、このページを見るとスムーズに始めれると思います。
 
-## 0. その前にご確認下さい
+# 0. はじめに
 
 13歳未満のお子さんは**保護者の方が利用するアカウント**を作成する必要があります。  
 13才以上で未成年のお子さんは自分でアカウントを作成出来ますが、保護者の同意が必要になります。
@@ -23,11 +23,20 @@ Discordをお使いになるデバイスで、このページを見るとスム�
 
 ![robo check](img/robot_check.png)
 
-# 1. ソフトウェアのインストール (または環境の選択)
+# 1. アプリのインストール
+
+
+下記リンクからDiscordサイトにアクセスして下さい。
+
+<p><a href="https://discord.com" target="_blank" rel="noopener noreferrer" class="button special">
+Discord
+</a></p>
+
+すると下の画像の様なボタンが見つかると思います。
 
 ![client](img/client.png)
 
-下記リンクからDiscordサイトにアクセスすると上の様なボタンがあると思います。使いたい環境のボタンを押して下さい。
+下記を参考に、使いたい方を選んで下さい。
 
 - "○○○ ダウンロード"
     - Discord専用アプリをインストールします。
@@ -35,10 +44,6 @@ Discordをお使いになるデバイスで、このページを見るとスム�
 - "Discordをブラウザで開く"
     - このページを見てるアプリ(Chrome, Edge, SafariならOK)の中でDiscordを使います。
     - アプリをインストールしたくない場合はこちらを選択して下さい。
-
-<p><a href="https://discord.com" target="_blank" rel="noopener noreferrer" class="button special">
-Discord
-</a></p>
 
 ダウンロードでファイルを保存した場合は、ファイルを実行してインストールを完了させて下さい。
 
