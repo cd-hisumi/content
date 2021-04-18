@@ -90,11 +90,12 @@ Discordはサーバーと呼ばれるグループに参加することで、そ�
 
 CoderDojo東住吉のサーバーへ参加するために、下のリンクをクリックして下さい。
 
-<a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button special">
+- <a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button special">
 CoderDojo東住吉 Discordサーバー
 </a>
 
-下の画像のような招待画面が出るので、"招待を受ける"ボタンをクリックして参加完了です。  
+下の画像のような招待画面が出るので、"招待を受ける"ボタンをクリックして参加完了です。
+
 ![invitation](img/invitation.png)
 
 パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる"Discordで開く"ボタンを押して下さい。CoderDojo東住吉のサーバー画面になると思います。
