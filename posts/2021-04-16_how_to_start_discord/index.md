@@ -4,9 +4,9 @@ title: Discordの始め方
 tags: [online, discord]
 ---
 
-オンライン開催の時はDiscordを使います。Discord]を使うとオンラインで質問や発表が出来ます。
+オンライン開催の時はDiscordを使います。Discordを使うとオンラインで質問や発表が出来ます。
 
-このページではDiscord]の始め方を説明します。
+このページではDiscordの始め方を説明します。
 
 ## 0. その前にご確認下さい
 
@@ -25,7 +25,9 @@ tags: [online, discord]
 下記リンクからDiscordのサイトへアクセスすると上の画像の様なボタンがあると思います。見つけたら環境に合わせて選択して下さい。  
 このページを見てるブラウザ(Chrome, Edge, SafariならOK)のままでも使えますが、インストールすると少しだけ使いやすくなります。利用頻度や必要に応じて選んで頂ければ良いと思います。
 
-- [Discord]: https://discord.com
+<p><a href="https://discord.com" target="_blank" rel="noopener noreferrer" class="button special">
+Discord
+</a></p>
 
 ダウンロードを行った場合は、保存したファイルを実行してインストールを完了させて下さい。
 
@@ -90,9 +92,9 @@ Discordはサーバーと呼ばれるグループに参加することで、そ�
 
 CoderDojo東住吉のサーバーへ参加するために、下のリンクをクリックして下さい。
 
-<ul><li><a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button special">
+<p><a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button special">
 CoderDojo東住吉 Discordサーバー
-</a></li></ul>
+</a></p>
 
 下の画像のような招待画面が出るので、"招待を受ける"ボタンをクリックして参加完了です。
 
