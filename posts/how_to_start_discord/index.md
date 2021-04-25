@@ -1,7 +1,7 @@
 ---
 date: 2021-04-18
 title: Discordの始め方
-tags: [online, discord]
+tags: [tips, online, discord]
 ---
 
 
@@ -102,21 +102,21 @@ Discordにログインした画面を開いて、画面左下から次の画像�
 
 設定が完了したら、右上の"X"ボタンかESCキーを押して画面を抜けます。
 
-# 4. CoderDojo東住吉のグループに参加
+# 4. "CoderDojo 東住吉"のグループに参加
 
 あともう一息です。  
 Discordはグループに参加することで、参加してるメンバとオープンにコミュニケーションを取ることが出来ます。
 (Discordではサーバーと呼んでいます)
 
-CoderDojo東住吉のグループに参加するために、下のリンクをクリックして下さい。
+"CoderDojo 東住吉"のグループに参加するために、下のリンクをクリックして下さい。
 
 <p><a href="https://discord.gg/sT6K3bspqz" target="_blank" rel="noopener noreferrer" class="button special">
-CoderDojo東住吉 | Discord
+CoderDojo 東住吉 | Discord
 </a></p>
 
 下の画像のような招待画面が出るので、"招待を受ける"ボタンをクリックして参加完了です。
 
 ![invitation](img/invitation.png)
 
-パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる"Discordで開く"ボタンを押して下さい。CoderDojo東住吉の画面になると思います。
+パソコンによってはエラーが出る場合がありますが、その時は気にせず画面に出てる"Discordで開く"ボタンを押して下さい。"CoderDojo 東住吉"の画面になると思います。
 
