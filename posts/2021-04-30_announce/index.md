@@ -9,7 +9,7 @@ CoderDojo 東住吉の最初の道場を5月16日(日)に開催しようと思�
 
 詳細や、参加方法は次のリンク先をご確認下さい。見学の枠も用意してますので、気軽に遊びに来て下さい :smile:
 
-- [Doorkeeper参加ページへ](https://coderdojohigashisumiyoshi.doorkeeper.jp/events/121104)
+- [Doorkeeper参加ページへ](https://cd-hisumi.doorkeeper.jp/events/121104)
 
 また参加希望の方は下記ページを参考に、Discordを使う準備お願い致します :bow:
 

@@ -4,7 +4,7 @@ date: 2021-05-16T13:30
 tags: [blog, pokemon, workshop, report]
 ---
 
-[【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目](https://coderdojohigashisumiyoshi.doorkeeper.jp/events/121104)
+[【オンライン開催】プログラミングで遊ぼう！ CoderDojo 東住吉 1回目](https://cd-hisumi.doorkeeper.jp/events/121104)
 
 
 - `2`名の**メンター**
