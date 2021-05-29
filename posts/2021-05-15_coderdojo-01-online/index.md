@@ -1,5 +1,5 @@
 ---
-title: CoderDojo 東住吉 1回目 [オンライン開催]
+title: CoderDojo 東住吉 1回目 開催報告
 date: 2021-05-16T13:30
 tags: [blog, pokemon, workshop, report]
 ---
