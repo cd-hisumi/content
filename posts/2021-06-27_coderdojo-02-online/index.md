@@ -101,17 +101,17 @@ tags: [blog, pokemon, workshop, report]
 
 ### **発表 3番目**
 
-最後の発表は、今回もメンターとして参加してくれた [CoderDojo 大阪狭山・本町](https://coderdojo-hommachi.github.io/)の`おごもりさん`からの発表です。
+最後の発表は、今回もメンターとして参加してくれた [CoderDojo 大阪狭山・本町](https://coderdojo-hommachi.github.io/) チャンピオンの`おごもりさん`からの発表です。
 
 なんと3Dモデリングをしてて、その内容を見せてくれました。
 
 ![05](05.png)
 
-Fusion360というソフトを使って制作してると教えてくれました。
+`Fusion 360`というソフトを使って制作してると教えてくれました。
 
 なんと個人用なら無償版があるそうです！
 
-- [Fusion360](https://www.autodesk.co.jp/products/fusion-360/personal)
+- [個人用 Fusion 360](https://www.autodesk.co.jp/products/fusion-360/personal)
 
 少しずつ違う「くまさん」や、駐車場等においてある「ロードコーン」など色々見せてくれました。
 
