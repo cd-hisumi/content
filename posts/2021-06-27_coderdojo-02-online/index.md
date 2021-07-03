@@ -1,5 +1,6 @@
 ---
 title: CoderDojo 東住吉 2回目 開催報告
+image: /assets/images/pokemon/Pokemon_WS_logo.png
 date: 2021-06-27T13:30
 tags: [blog, pokemon, workshop, report]
 ---
